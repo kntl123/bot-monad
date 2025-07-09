@@ -1,0 +1,9 @@
+PRIVATE_KEY="0xac786633723ba1ab9b8f3ff97e3daa62e84b5eb45ec9230d5b66c46d45cee388"
+RPC_URL="https://testnet-rpc.monad.xyz"
+
+# Alamat kontrak Ambient Finance di Monad Testnet
+AMBIENT_FINANCE_ROUTER_ADDRESS="0x88B96aF200c8a9c35442C8AC6cd3D22695AaE4F0"
+
+# Alamat token yang akan Anda gunakan untuk swap di Monad Testnet
+MONAD_WETH_ADDRESS="0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37"
+MONAD_USDC_ADDRESS="0xf817257fed379853cDe0fa4F97AB987181B1E5Ea"

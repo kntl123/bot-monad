@@ -1,0 +1,4 @@
+.env
+private_key
+venv/
+__pycache__/
